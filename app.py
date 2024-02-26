@@ -8,3 +8,8 @@ def mutiplcation(x,y):
     return x*y
 
 mutiplcation(8,9)
+
+
+def machineLearning(x):
+    print(x)
+    
