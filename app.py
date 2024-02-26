@@ -19,3 +19,6 @@ def calculator(x,y,z):
 def machineLearning(x):
     print(x)
     
+    
+def division(x,y):
+    print(x/y)
