@@ -8,3 +8,10 @@ def mutiplcation(x,y):
     return x*y
 
 mutiplcation(8,9)
+
+def calculator(x,y,z):
+    print(x+y+z)
+    
+
+
+
